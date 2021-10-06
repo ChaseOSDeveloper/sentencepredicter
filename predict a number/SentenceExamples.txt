@@ -1,0 +1,52 @@
+﻿sentence, type
+Who is your hero?, question
+If you could live anywhere where would it be?, question
+What is your biggest fear?, question
+What is your favorite family vacation?, question
+What would you change about yourself if you could?, question
+What really makes you angry?, question
+What motivates you to work hard?, question
+What is your favorite thing about your career?, question
+What is your biggest complaint about your job?, question
+What is your proudest accomplishment?, question
+What is your child's proudest accomplishment?, question
+What is your favorite book to read?, question
+What makes you laugh the most?, question
+What was the last movie you went to? What did you think?, question
+What did you want to be when you were small?, question
+What does your child want to be when he/she grows up?, question
+If you could choose to do anything for a day what would it be?, question
+What is your favorite game or sport to watch and play?, question
+Would you rather ride a bike ride a horse or drive a car?, question
+What would you sing at Karaoke night?, question
+What two radio stations do you listen to in the car the most?, question
+Which would you rather do: wash dishes mow the lawn clean the bathroom or vacuum the house?, question
+If you could hire someone to help you would it be with cleaning cooking or yard work?, question
+If you could only eat one meal for the rest of your life what would it be?, question
+Who is your favorite author?, question
+She leaves for college tomorrow morning; the house is going to feel empty without her., statement
+The weather is warm and sunny; a perfect day for a picnic., statement
+She wears red nail polish., statement
+The room smells clean., statement
+I love my cat., statement
+My family is driving to the beach for the long weekend and I am meeting them there., statement
+As the airplane climbed I saw the ocean., statement
+She is my new friend., statement
+His shoes were brand new and now they are missing., statement
+The dog chased the boy., statement
+It is a nice day., statement
+Lucy is sick; therefore she is not at school today., statement
+The grass is green after the rain., statement
+She loves the mountains; he hates the long drive., statement
+My new dress is black and white., statement
+My brother loves to run but my sister prefers to walk., statement
+My phone is missing., statement
+The teacher is going on a well-earned vacation., statement
+Her coat is ripped., statement
+The baby is hungry but she does not seem interested in drinking her bottle of milk., statement
+He wanted to play football but she wanted to play basketball., statement
+Marie loves the beach yet she hates sand., statement
+She plays the piano and he sings along., statement
+She had to make the next flight; she quickly packed her bag., statement
+The house has new windows; however the roof still leaks., statement
+It had rained for days; the town was flooded., statement
